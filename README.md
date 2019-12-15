@@ -1,3 +1,1 @@
-# online-book-store-project-in-php
-
-more details and demo http://projectworlds.in/online-book-store-project-in-php/
+this website is made by PHP ,MYsql and bootstrap
